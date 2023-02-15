@@ -13,7 +13,6 @@ import { toast } from 'react-toastify';
 
 
 
-
 export default function Edit() {
 
     const [data, setdata] = React.useState({
